@@ -1,6 +1,8 @@
 # BezPauz (BezPauses)
 
 **Desktop video editor that automatically removes silence — manual timeline edits, and multi-camera audio sync.**
+<img width="1355" height="1143" alt="image" src="https://github.com/user-attachments/assets/074173f6-1561-4f46-9bc0-eee1395eefa6" />
+
 
 BezPauz targets creators who record talking-head or tutorial videos and lose time trimming dead air in NLEs. The app analyzes audio, builds a cut plan, lets you review and adjust removals on a dual-track waveform timeline, then exports via FFmpeg — locally, without cloud upload.
 
